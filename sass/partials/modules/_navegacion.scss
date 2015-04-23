@@ -1,0 +1,22 @@
+// Estilo Navegacion Principal
+
+.main-nav {
+	float: right;
+	margin-right: 10px;
+	li {
+		list-style: none;
+		display: inline-block;
+		height: 114px;
+		margin: 0 5px;
+	}
+	
+	a {
+		color: $color_text;
+		text-decoration: none;
+		text-transform: uppercase;
+		line-height: 114px;
+		&:hover {
+			text-decoration: underline;
+		}
+	}
+}

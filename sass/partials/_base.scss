@@ -1,0 +1,16 @@
+// Estilos base
+body {
+	font-family: "openSans" , sans-serif; 
+	background: #f0f1ec;
+}
+
+header {
+	background: $color-base2;
+	border-top: $color_base3 8px solid; 
+	h1 {
+		background: url(../img/logo.png) no-repeat center center;
+		width: 300px;
+		height: 114px;
+		float: left;
+	}
+}

@@ -1,0 +1,18 @@
+// Estilos Intro
+
+.intro {
+	background: $color_base2;
+	height: 100px;
+	p {
+		color: $color_base1;
+		padding-top: 25px;
+		margin: 0 auto;
+		width: 65%;
+		text-align: center;
+		font-weight: bold;
+	}
+	
+	a {
+		color: #60c1f4;
+	}
+}

@@ -1,0 +1,21 @@
+// Estilos Layout
+
+html {
+	width: 100%;
+}
+
+body { 
+	max-width: $max-width;
+	margin: 0 auto;
+}
+
+header {
+	height: 114px;
+	margin: 0;
+}
+
+h1,
+h2,
+h3 {
+	margin: 0;
+}

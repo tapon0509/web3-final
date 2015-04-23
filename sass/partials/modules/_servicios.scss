@@ -1,0 +1,29 @@
+// Estilos Servicios
+
+.servicios {
+	padding: 20px 0;
+	background: #f8f8f8;
+	.titulo {
+		display: inline-block;
+		width: 20%;
+		border-bottom: 1px solid;
+	}
+}
+
+.servicio {
+	width: 20%;
+	display: inline-block;
+	.num_lista {
+		color: $color_text;
+		font-size: 16px;
+		margin-right: 5px;
+	}
+}
+
+.lista_servicio {
+	list-style: none;
+	li {
+		color: $color_text;
+		margin: 10px 0;
+	}
+}
